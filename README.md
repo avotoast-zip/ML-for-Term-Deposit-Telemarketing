@@ -1,3 +1,13 @@
+# Optimizing Conversion Rate for Term Deposit Telemarketing Using Machine Learning
+---
+<div align="center">
+
+By:  
+<a href="https://www.linkedin.com/in/cindy-handoko-tantowibowo-55a2751a7/">Cindy Handoko Tantowibowo</a> | <a href="https://www.linkedin.com/in/muhammad-khisanul-fakhrudin-akbar/">Muhammad Khisanul Fakhrudin Akbar</a>
+</div>
+
+
+
 ## 1. Business Understanding
 
 Inaccuracy in targeting customer segments has become the main cause of low effectiveness in Bank A's telemarketing campaigns. Many calls are directed to segments that do not match the characteristics of the [term deposit](https://archive.ics.uci.edu/dataset/222/bank+marketing) product, resulting in highly variable conversion rates. In certain periods, campaign success rates reach over 50%, but in other periods can drop drastically to below 10%. This variation reflects that the targeting strategy used is not yet optimal and directly impacts the high operational costs of marketing.
